@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CleanCase</string>
+    <string name="info_text_empty_list">Empty List!</string>
+</resources>
